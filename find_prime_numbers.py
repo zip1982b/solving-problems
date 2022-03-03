@@ -39,4 +39,5 @@ if __name__ == '__main__':
     if n == 1:
         print('q = 0')
     else:
+        prime_numbers_v1(n)
         prime_numbers_v2(n)
